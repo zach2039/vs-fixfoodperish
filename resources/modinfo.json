@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "fixfoodperish",
+  "name": "Fix food perish",
+  "authors": ["Zach2039"],
+  "description": "Fixes food rotting too fast on 1.18.5 versions",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.18.5"
+  }
+}
